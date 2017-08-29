@@ -1,7 +1,7 @@
 <?php
 // language: Czech
 // made by: dannylehcim @ snusbase
-// updated on: 22.June.2017
+// updated on: 29.August.2017
 
 // MENU
 define('_SEARCH', 'hledat');
